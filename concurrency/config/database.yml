@@ -1,0 +1,15 @@
+development:
+  adapter: mysql2
+  database: concurrency_dev
+  pool: 5
+  timeout: 5000
+  username: root
+  password: '123'
+
+test:
+  adapter: mysql2
+  database: concurrency_test
+  pool: 5
+  timeout: 5000
+  username: root
+  password: '123'

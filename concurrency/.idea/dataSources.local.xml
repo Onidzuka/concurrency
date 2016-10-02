@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails concurrency: test" uuid="79845390-8436-4702-96e5-cbceec357fb0">
+      <database-info product="MySQL" version="5.5.49" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.35 ( Revision: 5fb9c5849535c13917c2cf9baaece6ef9693ef27 )">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="upper" />
+      <user-name>root</user-name>
+      <user-password>df9bdf98df99</user-password>
+    </data-source>
+    <data-source name="Rails concurrency: development" uuid="a63c8c5e-3fc5-420d-84cd-47a0e9111bff">
+      <database-info product="MySQL" version="5.5.49" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.35 ( Revision: 5fb9c5849535c13917c2cf9baaece6ef9693ef27 )">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="upper" />
+      <user-name>root</user-name>
+      <user-password>df9bdf98df99</user-password>
+      <introspection-scope>concurrency_dev:</introspection-scope>
+      <resolve-scope>concurrency_dev:</resolve-scope>
+    </data-source>
+  </component>
+</project>
